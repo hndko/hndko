@@ -1,24 +1,14 @@
 # **<div align="center">Hi 👋, I'm Handoko</div>**  
   
-- 💻 Beginner fullstack web development  
-  
+- 💻 Beginner fullstack web development    
 - 🌱 I’m currently learning Codeigniter 3, Codeigniter 4, Laravel, Bootstrap  
-  
-- 📝 I regularly write articles on https://creativetech.my.id/  
-  
 - 💬 Ask me about html, css, javascript, php, mysql, java netbeans  
-  
 - 📫 How to reach me hd.doko22@gmail.com  
-  
-- 📄 Know about my experiences https://www.linkedin.com/in/hndko/  
-  
+- 📄 Know about my experiences https://www.linkedin.com/in/hndko/    
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -45,8 +35,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
