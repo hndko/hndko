@@ -1,4 +1,15 @@
 # **<div align="center">Hi 👋, I'm Handoko</div>**  
+
+👨‍💻 Fullstack Web Developer Enthusiast
+Passionate about mastering the art of fullstack web development. Currently diving into the realms of Codeigniter 3, Codeigniter 4, Laravel, and Bootstrap, eager to expand my skills and contribute to exciting projects.
+🌱 Learning and Growing:
+Continuously expanding my knowledge base in web technologies. Keen on staying up-to-date with the latest trends and best practices in the dynamic world of web development.
+💬 Let's Talk Tech:
+Open for discussions on HTML, CSS, JavaScript, PHP, MySQL, and Java NetBeans. Have a question or want to share insights? Feel free to reach out!
+📫 Contact:
+Email: hd.doko22@gmail.com
+📄 Explore My Journey:
+Discover more about my experiences on LinkedIn. Let's connect and explore the possibilities of collaboration!
   
 - 💻 Beginner fullstack web development    
 - 🌱 I’m currently learning Codeigniter 3, Codeigniter 4, Laravel, Bootstrap  
