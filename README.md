@@ -100,10 +100,14 @@ const handoko = {
 
 <div align="center">
 
-<!-- PINNED_REPOS_START -->
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-<!-- PINNED_REPOS_END -->
+| **[dramabox-rest-api-node](https://github.com/hndko/dramabox-rest-api-node)** | 🎬 Modern REST API for Dramabox content - Search, Stream, Episodes & more. Production-ready with rate limiting & caching ⭐ 11 | JavaScript |
+| **[app_marilaundry_ci3](https://github.com/hndko/app_marilaundry_ci3)** | Sistem Manajemen Laundry Modern berbasis CodeIgniter 3 dengan fitur notifikasi WhatsApp otomatis, dashboard real-time, dan RESTful API ⭐ 1 | PHP |
+| **[app_antrianhelpdesk_laravel12](https://github.com/hndko/app_antrianhelpdesk_laravel12)** | Sistem Antrian & Display Informasi Real-time berbasis Laravel 12 Livewire & Tailwind CSS ⭐ 1 | PHP |
+| **[satpam_laptop](https://github.com/hndko/satpam_laptop)** | 🛡️ Laptop security system with face recognition using OpenCV Haar Cascade. Detects intruders and sends alerts ⭐ 1 | Python |
+| **[bot-simsimi-nodejs](https://github.com/hndko/bot-simsimi-nodejs)** | Node.js client for SimSimi API with a rich terminal interface 🚀 ⭐ 1 | JavaScript |
+| **[IOVerse-react19](https://github.com/hndko/IOVerse-react19)** | The Ultimate Peripheral Testing Suite. Visualize and benchmark your Keyboard, Mouse, Gamepad & Screen with React 19 | JavaScript |
 
 </div>
 
