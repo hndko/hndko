@@ -100,18 +100,10 @@ const handoko = {
 
 <div align="center">
 
-| Project                                                                                  | Description                                         | Tech Stack                        |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------- |
-| 🎬 **[NetShort API React](https://github.com/hndko/app_netshort-api_react)**             | Modern streaming platform for short drama series    | React, TypeScript, Vite, Tailwind |
-| 📊 **[WFA Report System](https://github.com/hndko/app_wfa_report_laravel12)**            | Daily work report management with role-based access | Laravel 12, Tailwind, Livewire    |
-| 🎓 **[CBT Progress App](https://github.com/hndko/cbt-progress-app)**                     | Student selection & CBT monitoring system           | Laravel 12, Multi-role, 2FA       |
-| 💳 **[Split Bill Vue3](https://github.com/hndko/split-bill-vue3)**                       | Easy bill splitting calculator app                  | Vue 3, Vite, TypeScript           |
-| 🔧 **[API Tools Dashboard](https://github.com/hndko/app_maritestapi_vue3)**              | Dashboard for various API tools                     | Vue 3, Vite, Tailwind             |
-| 📱 **[Antrian Helpdesk](https://github.com/hndko/app_antrianhelpdesk_laravel12)**        | Real-time queue & info display system               | Laravel, Livewire, Tailwind       |
-| 🌐 **[Website Cloner](https://github.com/hndko/clone_webpage)**                          | Advanced website cloner with GUI                    | Python, Selenium, Tkinter         |
-| 🖼️ **[Remove Background](https://github.com/hndko/remove_bg)**                           | AI-powered background remover desktop app           | Python, AI, Dark Theme            |
-| 🎮 **[Game Nickname Checker](https://github.com/hndko/cek_niknamegame_kokinpay)**        | Check game nicknames (MLBB, FF, Genshin)            | React, TypeScript, Glassmorphism  |
-| 🚀 **[Laravel Installer Script](https://github.com/hndko/laravel-installer-hosting.sh)** | Interactive bash script for Laravel setup           | Bash, Shell Scripting             |
+<!-- PINNED_REPOS_START -->
+| Project | Description | Language |
+| ------- | ----------- | -------- |
+<!-- PINNED_REPOS_END -->
 
 </div>
 
